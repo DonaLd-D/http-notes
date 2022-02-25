@@ -3,7 +3,9 @@
 - 数据链路层（通过ARP协议来获取接受方的MAC地址（网卡））
 - 网络层（IP协议）
 - 传输层（”端口”（port），每一个使用网卡的程序的编号）
-- 会话层，表示层，应用层（对数据进行解包）
+- 会话层（概念，tcp连接等）
+- 表示层（Recognizing data,HTML,DOC,JPEG,MP3,AVL Sockets,负责数据解包）
+- 应用层（DNS,WWW/HTTP,P2P,EMAIL/POP,SMTP,Telnet,ftp，解决业务问题）
 
 ### 浏览器输入url后发生了什么？
 - 1.DNS域名解析
